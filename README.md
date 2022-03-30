@@ -57,6 +57,10 @@ $ cd /home/emma
 ```
 * Install flask
 * Download flask app from github repository
+* Download requirements by running the command:
+```
+pip3 install -r requirements.txt 
+```
 * test server by typing 
 ```
 $ python3 __init__.py
