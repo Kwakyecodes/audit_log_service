@@ -18,4 +18,4 @@ SQLAlchemy==1.4.32
 sqlparse==0.5.0
 termcolor==1.1.0
 Werkzeug==3.0.6
-zipp==3.7.0
+zipp==3.19.1
